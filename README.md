@@ -1,5 +1,5 @@
 # subscriber-email-distributer
 
-Python script to generate and distribute weekly emails
+A script to generate and distribute weekly emails
 
-Uses Python for script and pulls emails from dummy SQL database 
+Uses Python and pulls emails from a dummy SQL database 
